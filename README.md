@@ -1,6 +1,6 @@
 # interacting-hysteron-data
 
-All files are tab-delimited txt files. Here are the parameters for each file:
+All files are tab-delimited txt files, with one line of header (column titles). Here are the parameters used to generate each file:
 
 FIGURE 1
 
