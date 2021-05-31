@@ -32,9 +32,11 @@ for "range" column: midpoints drawn from [-25,25] and lengths drawn from [5,20].
 
 FIGURE 5
 
-simulation.txt: midpoints drawn from [-0.01,0.01] and lengths drawn from [9.99,10.01]. A = .1, N = 3, gamma_max = 5. Average over 10,000,000 configurations. 
+simulation-and-calculation.txt:
 
-calculation.txt: calculated as described in the paper.
+for "simulation" column: midpoints drawn from [-0.01,0.01] and lengths drawn from [9.99,10.01]. A = .1, N = 3, gamma_max = 5. Average over 10,000,000 configurations. 
+
+for "calculation" column: calculated as described in the paper.
 
 
 FIGURE 7
