@@ -23,9 +23,11 @@ memory.txt: midpoints drawn from [-25,25] and lengths drawn from [0,20]. A = .1,
 
 FIGURE 4
 
-fix.txt: midpoints drawn from [-25,25] and lengths drawn from [5,20]. Interactions drawn randomly from {-1.5,1.5} (ie, equal exactly to \pm 1.5). N=2, gamma_1 = 0, gamma_2 = 8. Average over 7,500,000 configurations
+fix-and-range.txt: 
 
-range.txt: midpoints drawn from [-25,25] and lengths drawn from [5,20]. Interactions drawn randomly from [-2,-1]U[1,2]. N=2, gamma_1 = 0, gamma_2 = 8. Average over 7,500,000 configurations
+for "fix" column: midpoints drawn from [-25,25] and lengths drawn from [5,20]. Interactions drawn randomly from {-1.5,1.5} (ie, equal exactly to \pm 1.5). N=2, gamma_1 = 0, gamma_2 = 8. Average over 7,500,000 configurations
+
+for "range" column: midpoints drawn from [-25,25] and lengths drawn from [5,20]. Interactions drawn randomly from [-2,-1]U[1,2]. N=2, gamma_1 = 0, gamma_2 = 8. Average over 7,500,000 configurations
 
 
 FIGURE 5
